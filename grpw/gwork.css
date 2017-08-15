@@ -1,0 +1,62 @@
+
+#wrapper{
+	height: 970px;
+	width: 970px;
+	background-color: #F5F5DC;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+.theredbox{
+	height: 220px;
+	width: 426px;
+	background-color: red;
+	display: inline-block;
+	margin:  15px;
+
+}
+
+#theotherbox{
+	height: 120px;
+	width: 800px;
+	background-color: #0000FF;
+	margin: 15px;
+}
+
+.theboxy{
+	height: 120px;
+	width: 240px;
+	background-color: red;
+	display: inline-block;
+	margin:  15px;
+}
+
+.thegreenbox{
+	height: 320px;
+	width: 800px;
+	background-color: green;
+	margin: 15px;
+}
+
+#theboxba{
+	height: 120px;
+	width: 140px;
+	background-color: purple;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+}
+
+#theboxb{
+	height: 120px;
+	width: 140px;
+	background-color: purple;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left:495px; 
+
+	
+
+}
+
