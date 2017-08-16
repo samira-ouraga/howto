@@ -1,0 +1,137 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    outline: 1px dotted black;
+        
+}
+.bluebox{
+    height: 700px;
+    width: 1700px;
+    margin: 0 auto;
+    background-color: #2D587B;
+}
+
+.upper{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+
+/*come back to fix this form, backgrd color, radius*/
+#thesearchbox{
+    margin-left: 645px;
+    padding: 15px;
+    background-color: #444444;
+    border-radius: 15px;
+
+}
+
+#thesearchbox label, #thesearchbox a{
+    background-color: #444444;   
+    color:white;
+    
+}
+
+#thesearchbox span a{
+    color: yellow;
+}
+
+
+input{
+    height:40px;
+    background-color: white;    
+}
+
+#gobutton{
+    height: 40px;
+    width: 40px;
+    background-color: #2D587B;
+    padding-left: 3px;
+}
+
+.nav ul{
+    list-style: none;
+    background-color: #487EAC;
+    text-align: center;
+    padding: 0;
+    margin-top: 20px;
+    margin-left: 180px;
+    width: 1500px;
+    border-radius: 10px;
+}
+
+.nav li{
+    font-size: 2em;
+    line-height: 50px;
+    display: inline;
+    margin-left: 48px;
+    margin-right: 48px;
+    
+}
+
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #487EAC;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.firstlist ul{
+    margin-left: 300px;
+    margin-top: 50px;
+ display: inline-block;
+}
+
+.firstlist{
+    display: inline-block;
+   
+}
+.firstlist ul li{
+    font-size: 40px;
+    color: yellow;
+
+}
+
+.firstlist ul a{
+    color: white;
+}
+
+.lastlist{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+    text-align: center;
+     
+    
+}
+
+.lastlist p{
+    vertical-align: top;
+    margin-top:25px;
+    margin-left: 169px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.lastlist ul li{
+    font-size: 30px;
+    list-style-type: none;
+    color: yellow;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.lastlist ul{
+    padding-top: 20px;
+}
+
+h3{
+    color:white;
+    padding-top: 4px;
+}
+
