@@ -1,7 +1,6 @@
 *{
     margin: 0 ;
     padding: 0;
-    outline: 1px dotted black;
         
 }
 .bluebox{
@@ -134,4 +133,46 @@ h3{
     color:white;
     padding-top: 4px;
 }
+
+.thewhitebox{
+    text-align: center;
+    width: 1690px;
+    display: block;
+    height: 240px;
+    margin-bottom: 5px;
+    margin-top: 5px;  
+    columns: 2;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.section{
+    width: 300px;
+    margin-right:10px;
+    border-top: 8px solid blue;
+}
+
+h2{
+    border-top:  9px solid blue;
+}
+
+.footer{
+    background-color:#2D587B;
+    text-align: center;
+    height: 90px;
+    width: 1690px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.footer > h3{
+    color: blue;
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 30px;
+    
+}
+
 
